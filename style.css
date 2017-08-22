@@ -1,0 +1,55 @@
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.parallax-container {
+  min-height: 250px;
+  line-height: 0;
+  height: auto;
+}
+
+.sombra{
+  width: 100%;
+  height: 300px;
+  background: #999;
+}
+
+.section-cols {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+
+.cuco1-img{
+  position: relative;
+  left:15%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.cuco2-img{
+  position: relative;
+  left:15%;
+  height: 323;
+  margin-bottom: 50px;
+}
+
+.text-section-cols{
+  text-align: center;
+}
+
+.text-section-cols .inf{
+  font-size: 12px;
+  line-height: 5px;
+}
+
+.backgrond-kids{
+  background-image: url('../textureKids.jpg');
+  width:100%;
+  height:500px;
+}
